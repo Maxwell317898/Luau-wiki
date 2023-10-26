@@ -3,16 +3,16 @@ Hello in this page we will be going over correct syntax and other essentials whe
 
 > **Contents**
 
-**Comments**
+* **Comments**
 
-**Printing**
+* **Printing**
 
 # Comments
 When you start coding you might think that soon you will never have to label things because you'll remember (you won't) this is why we use comments, here is an example
 ```lua
 -- My code (worlds BEST code)
 ```
-As we can see it highlights it grey this will also happen in Roblox Studio
+As we can see it highlights it grey this will not happen in Roblox Studio because this is on github and it highlights it differantly
 
 Comments are not ran by Roblox or the script they just skip over them
 

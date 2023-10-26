@@ -16,7 +16,7 @@ As we can see it highlights it grey this will also happen in Roblox Studio
 
 Comments are not ran by Roblox or the script they just skip over them
 
-Another form of Comment are selection based comments that start with "--[[" and end with "]]" like this
+Another form of Comment are selection based comments that start with "``--[[``" and end with "``]]``" like this
 ```lua
 --[[hello world
 hello again

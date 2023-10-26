@@ -1,10 +1,10 @@
 # Methods
 
-> Table of contents
+> **Table of contents**
 
-**syntax**
+* **syntax**
 
-**MORE**
+* **MORE**
 
 # syntax
 
@@ -25,11 +25,11 @@ ok if you want more then ok here is a list it is just that i recommend you play 
 ```lua
 :Destroy()
 :Clone()
-:MoveTo -- modals only i think
-:move -- depracticated
-:ScaleTo
-:PivotTo
-:GetChidren
+:MoveTo(pos) -- modals only i think
+:move(pos) -- depracticated
+:ScaleTo(perams)
+:PivotTo(perams-needed)
+:GetChidren(perams-needed)
 :GetPropertyChangedSignal()
 :ClearAllChildren()
 :FindFirstChild()

@@ -1,0 +1,31 @@
+== Hello And welcome to Luau if you're on this page then i am assuming you are new. ==
+Hello in this page we will be going over correct syntax and other essentials when coding
+
+<big>'''Contents'''</big>
+
+* <big>'''Comments'''</big>
+* <big>'''Printing'''</big>
+
+== Comments ==
+When you start coding you might think that soon you will never have to label things because you'll remember (you wont) this is why we use comments here is an example<syntaxhighlight lang="lua" line="1">
+-- My code (worlds BEST code)
+</syntaxhighlight>As we can see it highlights it green this will also happen in Roblox Studio
+
+Comments are not ran by Roblox or the script they just skip over them
+
+Another form of Comment are selection based comments that start with '''--<nowiki>[[ and end with ]]</nowiki>''' like this<syntaxhighlight lang="lua">
+--[[ hello world
+hello again
+hello]]
+</syntaxhighlight>
+
+== Printing ==
+<syntaxhighlight lang="lua">
+print("Hello, World.")
+</syntaxhighlight>What this does is it Prints Hello, World to the output
+
+also you can do '''warn("Hello, World") error("Hello, World")'''
+
+when you use warn("text") you will get a orange massage in '''bold'''
+
+and when you do error("text") will stop you script and display you text in '''bold''' and red

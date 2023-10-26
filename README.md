@@ -1,11 +1,8 @@
 # Luau-wiki
 A luau wiki with a guide ready to use Right now and the source of are old wiki
-## WOW sub-title
-dfjjjjhdfjhdsfhjksjkhf
-[Amidst the cacophony of life's never-ending symphony, where the relentless march of time steadily propels us through the tapestry of existence, weaving moments of joy, sorrow, and contemplation into the complex narrative of our lives, it becomes apparent that our journey is an intricate mosaic of experiences that shape our understanding of the world and the individuals we are, fostering connections with the people we encounter, leading us through the labyrinth of emotions, dreams, and challenges that define the human condition, and as we navigate this multifaceted voyage, it is vital to recognize the significance of empathy, kindness, and resilience as guiding stars in the constellation of our daily interactions, for they are the foundation of our shared humanity, a reminder that in a world where division, conflict, and uncertainty often cast shadows upon our path, it is the enduring power of compassion that illuminates the way forward, reminding us that every person we encounter carries a unique story, a journey, and a perspective, deserving of respect and understanding, and as we embrace this truth, we embark on a profound exploration of the world around us, transcending the boundaries that separate us, bridging gaps between cultures, and forging connections that transcend language, nationality, and creed, for it is through these connections that we cultivate unity, enrich our lives with diverse perspectives, and create a tapestry of shared experiences that fosters not only personal growth but also the evolution of our society towards one that values inclusion, acceptance, and love, recognizing that our differences are threads that weave the rich fabric of human existence, contributing to a more vibrant, harmonious world, and as we reflect on the profound impact of empathy and kindness in our lives, we find that these qualities are not merely abstract ideals but powerful agents of change, capable of inspiring hope, healing wounds, and uniting disparate individuals into a collective force for positive transformation, and so, let us embrace empathy and kindness as integral parts of our daily existence, for in doing so, we breathe life into a vision of a world that transcends divisions, celebrates diversity, and offers boundless opportunities for personal growth and societal progress, and as we continue our journey, we find that in this 500-word sentence, we've explored the intricate interplay of our lives, the remarkable significance of our connections with others, and the transformative potential of empathy and kindness, reinforcing the belief that we can, collectively, shape a better future, one thoughtful action, one compassionate word, one shared understanding at a time.](http://bully.org)
-### does this work
-wowzers!
-#### wot
-is this the pinnacle of modern technology
-**idiot**
-*so uh die*
+<!DOCTYPE html>
+<html>
+<body>
+  <p>hello world</p>
+</body>
+</html>

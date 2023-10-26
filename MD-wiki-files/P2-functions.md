@@ -1,9 +1,9 @@
  **Content**
 
-Structure of Functions <br>
-Calling Functions <br>
-Why use functions? <br>
-Kinda complicated stuff <br>
+* **Structure of Functions** <br>
+* **Calling Functions** <br>
+* **Why use functions?** <br>
+* **Kinda complicated stuff** <br>
 
 
 

@@ -2,7 +2,7 @@
 A luau wiki with a guide ready to use Right now and the source of are old wiki
 ## WOW sub-title
 dfjjjjhdfjhdsfhjksjkhf
-[link](https://bully.org)
+[link](http://bully.org/)
 ### does this work
 wowzers!
 #### wot

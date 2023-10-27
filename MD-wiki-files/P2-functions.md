@@ -54,7 +54,8 @@ while true do
     sayhi()
 end
 ```
-
+> [!IMPORTANT]
+> When you use a ``while true`` loop make SURE to add a wait or the script will not work
 
 ## **Kinda complicated stuff**
 Ok as i said in a function you can have something like this "say(What)" for the call name (bit next to "function") Here is the code (this will make this more understandable)

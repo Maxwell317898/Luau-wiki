@@ -31,9 +31,9 @@ function hello()
 end
 hello()
 ```
-Ok when we call a function the function must be above (or Defined) the calling the calling being "hello()" 
+Ok when we call a function the function must be above (or Defined) the calling being "hello()" 
 
-as we see "hello()" is defined and is it told to run "print("hello")".  functions run the code thay were told to do you call also call a function more then 1 time 
+as we see ``hello()`` is defined and is it told to run ``print("hello")``.  functions run the code thay were told to do you call also call a function more then 1 time 
 
 and the calling the bit at the bottom (line: 4) must match the part in our function in my case line: 1 after the "function" is "hello()". when it is called it Runs the code inside the function (Kinda easy right)
 
@@ -64,7 +64,7 @@ function say(What)
 end
 say("Look here is some cool text")
 ```
-If we were to run this script in the console it would say   Look here is some cool text    If you understand this already you can skip the rest of this section now just look at this code too
+If we were to run this script in the console it would say   ``Look here is some cool text``    If you understand this already you can skip the rest of this section now just look at this code too
 ```lua
 function say(what, type)
     if type == "w" then
@@ -76,4 +76,3 @@ end
 say("cool text", "W")
 ```
 When you call or set a call name with double parameters you seperate them with a " , " 
-

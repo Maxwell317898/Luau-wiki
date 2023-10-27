@@ -7,6 +7,9 @@ Hello in this page we will be going over correct syntax and other essentials whe
 
 * **Printing**
 
+> [!WARNING]
+> When you make your game be carefull as items,plugins,models,meshs and tools these may contain scripts that make your game get reported and banned
+
 # Comments
 When you start coding you might think that soon you will never have to label things because you'll remember (you won't) this is why we use comments, here is an example
 ```lua

@@ -16,13 +16,13 @@ function hello() --<< the call name
     [insert code here] -- main code
 end -- end statement
 ```
-Ok as we see Here are some basic rules <br>
+Ok as we see here are some basic rules <br>
 
 The identifier Must Be "function" this shows Roblox that this is a function <br>
 
-The call name Can be anything just make sure it ends with "()" we will get on to the (Test, test) later  <br>
+The call name can be anything just make sure it ends with ``()`` we will get on to some more thing you do with the ``()`` later  <br>
 
-The end statement Must be "end" this just tells roblox to stop <br>
+The end statement Must be ``end`` this just tells Roblox to stop <br>
 
 ## **Calling functions**
 ```lua
@@ -31,11 +31,11 @@ function hello()
 end
 hello()
 ```
-Ok when we call a function the function must be above (or Defined) the calling being "hello()" 
+Ok when we call a function the function must be above (or Defined) the calling being ``hello()`` 
 
 as we see ``hello()`` is defined and is it told to run ``print("hello")``.  functions run the code thay were told to do you call also call a function more then 1 time 
 
-and the calling the bit at the bottom (line: 4) must match the part in our function in my case line: 1 after the "function" is "hello()". when it is called it Runs the code inside the function (Kinda easy right)
+the name of the thing you are calling must be the same as one of the things you have defined or else you will get an error
 
 ## **Why use functions?**
 We use functions to make our code shorter and not have to re-write all the code instead we use a function
@@ -55,10 +55,10 @@ while true do
 end
 ```
 > [!IMPORTANT]
-> When you use a ``while true`` loop make SURE to add a wait or the script will not work
+> be careful when using ``while true do`` because it can couse lag when running continuously
 
 ## **Kinda complicated stuff**
-Ok as i said in a function you can have something like this "say(What)" for the call name (bit next to "function") Here is the code (this will make this more understandable)
+Ok as I said in a function you can have something like this "say(What)" for the call name (bit next to "function") Here is the code (this will make this more understandable)
 ```lua
 function say(What)
     print(What)

@@ -31,7 +31,7 @@ while true do
     print("hello world")
 end
 ```
-this will keep going for as long as true is true witch is alwasy is
+this will keep going for as long as true is true which is always is
 
 This page was mainly curated by something-i-guess.
 this page makes sense because of Maxwell317898

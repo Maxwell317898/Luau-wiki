@@ -2,8 +2,14 @@
 
 **Table of contents** <br>
 
-* **ee**
+* **How to use**
 
-* **aggal**
+* **no**
 
-# ee
+# How to use
+```lua
+while true do
+ -- your code thingy here
+ wait(1) -- you have to put in a wait otherwise it breaks and Roblox shouts at you
+end
+```

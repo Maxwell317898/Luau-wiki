@@ -21,5 +21,3 @@ end
 This code will make a loop that lasts until this value changes from the set number thingymabobington.
 > [!IMPORTANT]
 > Always put a wait in your loop. ALL THE TIME. ALWAYS. Otherwise roblox shouts at you.
-
-THis page was made by @something-i-guess

@@ -12,14 +12,23 @@
 local part = script.parent
 part:Destroy()
 ```
-ok look the part is the script's parent 
+the part is a object in the workspace witch we have defined with the local
 
-what we do is the function Destroy (Destroy is a default function) witch will destroy the part and also the script :(
+what we are doing is deleting the perant (the thing the script is in).
+but a thing to remeber is that this is only happening in your server,
+basicly this will not delete this from studio
 
-ALSO the function when you are invoking it on a part (eg: ``script.parent``) you must separate the part and the function with a : eg: ``part:Destroy()``
+this will also delete the childeren of the part or instance you are deleting. so in this instance it would also remove the script
 
-you do not need to do the ``local part = path.to.part.or.reference`` you can also just have a ``game.workspace.part``
+when we use ``:Destroy()`` we are calling the method onto the part or instance before it eg: ``part`` this can also be something like this ``game.workspace.part`` it will still have the same result
 
+## Remote events
+when you get better at coding you migth want to use a remote event to communicate between the server & client these use the method also as a function like this
+```lua
+local event = game.replicatedstorage.event
+event:FireServer(data, strings)
+```
+if you are confused about this part just remember this for later
 # MORE
 ok if you want more then ok here is a list it is just that i recommend you play around with this first 
 ```lua
@@ -35,4 +44,4 @@ ok if you want more then ok here is a list it is just that i recommend you play 
 :FindFirstChild()
 -- these are only small portion of all the Methods
 ```
-U NEED TO PLAY WITH THESE FIRST IN RBX STUDIO to understand
+

@@ -13,3 +13,4 @@ while true do
  wait(1) -- you have to put in a wait otherwise it breaks and Roblox shouts at you
 end
 ```
+This code will make a loop that lasts forever and never ends ever ever. EVER.

@@ -55,7 +55,7 @@ while true do
 end
 ```
 > [!IMPORTANT]
-> be careful when using ``while true do`` because it can couse lag when running continuously
+> be careful when using ``while true do`` because it can cause lag when running continuously
 
 ## **Kinda complicated stuff**
 Ok as I said in a function you can have something like this "say(What)" for the call name (bit next to "function") Here is the code (this will make this more understandable)

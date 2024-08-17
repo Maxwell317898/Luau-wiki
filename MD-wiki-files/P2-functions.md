@@ -16,13 +16,13 @@ function hello() --<< the call name
     [insert code here] -- main code
 end -- end statement
 ```
-Ok as we see Here are some basic rules <br>
+Ok as we see here are some basic rules <br>
 
 The identifier Must Be "function" this shows Roblox that this is a function <br>
 
-The call name Can be anything just make sure it ends with ``()`` we will get on to some more thing you do with the ``()`` later  <br>
+The call name can be anything just make sure it ends with ``()`` we will get on to some more thing you do with the ``()`` later  <br>
 
-The end statement Must be ``end`` this just tells roblox to stop <br>
+The end statement Must be ``end`` this just tells Roblox to stop <br>
 
 ## **Calling functions**
 ```lua
@@ -55,10 +55,10 @@ while true do
 end
 ```
 > [!IMPORTANT]
-> be carefull when useing ``while true do`` because it can couse lag when running continuasly
+> be careful when using ``while true do`` because it can couse lag when running continuously
 
 ## **Kinda complicated stuff**
-Ok as i said in a function you can have something like this "say(What)" for the call name (bit next to "function") Here is the code (this will make this more understandable)
+Ok as I said in a function you can have something like this "say(What)" for the call name (bit next to "function") Here is the code (this will make this more understandable)
 ```lua
 function say(What)
     print(What)
